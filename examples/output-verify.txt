@@ -1,0 +1,2 @@
+CHANGED a.txt
+ok=0 changed=1 missing=0 new=0
